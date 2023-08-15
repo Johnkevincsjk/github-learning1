@@ -1,0 +1,8 @@
+hi Kevin how are you
+im fine
+
+\\ im going to write a code.
+
+
+var a = "guvi"
+console.log(a);
