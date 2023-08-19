@@ -6,3 +6,5 @@ im fine
 
 var a = "guvi"
 console.log(a);
+
+\\ this is a demo practice session on github
